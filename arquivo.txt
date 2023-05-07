@@ -1,0 +1,6 @@
+Pontuação:
+
+	Usuario 	   Tipo 	 Pontos
+         guerra           moeda              30
+         guerra         estrela              20
+         clovis         estrela              50
